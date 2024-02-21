@@ -1,6 +1,6 @@
 #E-Commerce Website
 
-#homePage
+                                                                #homePage
 ![Screenshot (207)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/ecd5247f-ba42-4e50-93fd-0d091a7769b9)
 ![Screenshot (208)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/fbf68b73-6038-4b02-8750-d650a4798769)
 ![Screenshot (209)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/94d2e034-76aa-41c6-8020-625e3d180953)
@@ -40,6 +40,8 @@
 
 #electronics
 ![Screenshot (237)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/10a87c54-a419-4e90-b571-7afd4bd8b34b)
+
+#filterByPrice
 ![Screenshot (238)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/3b70ebe1-4a28-4af2-9529-6085d0ad5fed)
 ![Screenshot (239)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/a7445abb-7e9e-439b-ad59-fb5ee3058cf2)
 ![Screenshot (240)](https://github.com/VishwaJarsaniya/ECommerce_with_loginSignupAuthentication/assets/143692465/0c6da5f9-59bb-4db6-bf63-a013670c059a)
